@@ -1,6 +1,6 @@
 Crawl books under some specified tag, sort them in ratings.
 
-Usage: python douban.py <outfile-name> <url for some specified tag's book>
+Usage: python douban.py \<outfile-name\> \<url for some specified tag's book\>
 
 For example:
 
